@@ -1,26 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  return <div>
+    <div className="flex items-center justify-center h-screen">
+      <div className="w-1/2 h-1/2 bg-gray-100 rounded-lg shadow-lg flex items-center justify-center font-medium text-xl">
+        Your To-Do app goes here!
+      </div>
     </div>
-  );
+  </div>;
 }
 
 export default App;
