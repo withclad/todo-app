@@ -22,4 +22,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Submission
 
-Send the
+Compress and the send the project to [`daniel@withclad.com`](mailto:daniel@withclad.com).
