@@ -8,6 +8,8 @@
 2. As a user, I can mark an outstanding task as completed
 3. As a user, I can view both my outstanding and completed tasks.
 
+All of these requirements - nothing more, nothing less - must be fulfilled.
+
 ### Visual requirements
 
 Please have the UI match the [provided mocks]().
