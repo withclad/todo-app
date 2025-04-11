@@ -32,4 +32,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Submission
 
-Compress and the send the project to [interviews@withclad.com](mailto:interviews@withclad.com).
+Compress and the send the project to [Daniel](mailto:interviews@withclad.com).
